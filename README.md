@@ -1,6 +1,6 @@
 # Financial-Risk-Assessment-Analysis
 ## This project provides insights into financial risk patterns across various demographics using factors such as employment status, education level, credit scores, and loan purpose.
-### Analyst: Leo
+### Analyst: Pranav
 ### Date: 22/07/2025
 ## Overview of Financial Risk Assessment Analysis Dashboard:
 <img width="854" height="492" alt="financial risk " src="https://github.com/user-attachments/assets/9bee6cc6-c441-4a18-a560-245911b86a9c" />
